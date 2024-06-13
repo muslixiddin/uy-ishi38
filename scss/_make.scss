@@ -1,0 +1,24 @@
+.make{
+    padding-top: 40px;
+    .make-title{
+        font-size: 34px;
+        font-weight: 400;
+        display: flex;align-items: center;justify-content: center;
+    }
+    .make_info{
+        padding: 15px;
+        font-size: 14px;
+        font-weight: 300;
+        color: #A0A0A0;
+        display: flex;align-items: center;justify-content: center;
+        text-align: center;
+
+    }
+    .make_cards{
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap ;
+        gap: 15px;
+        padding: 10px;
+    }
+}

@@ -1,0 +1,31 @@
+.featured{
+    padding-top: 40px;
+    .featured_title{
+        font-size: 43px;
+        display: flex;align-items: center;justify-content: center;
+        padding-bottom: 15px;
+    }
+    .featured_info{
+        font-size: 18px;
+        font-weight: 400;
+        color: #A0A0A0;
+        display: flex;align-items: center;justify-content: center;
+        padding-bottom: 15px;
+    }
+    .featude-header-bottom{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 7px;
+    }
+    .featured_cards{
+        padding-top: 30px;
+        display: flex;
+        align-items: center;
+        width: 100%;
+        flex-wrap: wrap;
+        .fetured_card{
+            width: 25%;
+        }
+    }
+}

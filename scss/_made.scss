@@ -1,0 +1,35 @@
+.made{
+    background-image: url("../images/bg.svg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 50vh;
+    margin: 0;
+
+
+    .made_title{
+        padding-top: 150px;
+        font-size: 43px;
+        font-weight: 400;
+        color: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .hero_info{
+        font-size: 15px;
+        font-weight: 400;
+        color: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .hero_desc{
+        font-size: 13px;
+        font-weight: 400;
+        color: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}

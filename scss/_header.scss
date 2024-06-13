@@ -1,0 +1,15 @@
+.header{
+    padding: 20px;
+    .nav_header{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .header_link-right{
+        display: flex;align-items: center;
+        li{
+            color: #000000;
+        }
+    }
+  
+}
